@@ -7,8 +7,9 @@ Created with the raylib framework using the [raylib-cpp-starter](https://github.
 # Todo's
 
 1. ~~Create the snake game.~~
-2. Add classical path finding algorithms.
-3. Train an AI agent to play the game using Q-Learning.
+2. Switch the game from being player base to AI base by keeping track of the game state in a convinient way for the AI agent.
+3. Add classical path finding algorithms (Uniform Cost Search, Hamiltonian Path).
+4. Train an AI agent to play the game using Q-Learning without using any machine learning frameworks.
 
 ---
 
